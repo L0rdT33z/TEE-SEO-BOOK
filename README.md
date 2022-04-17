@@ -12,7 +12,9 @@
 - แนวทางในการปรับตำแหน่งขอบ
 - แนวทางในการใช้ Header Tag
 - ทำ Audit ทุกครั้งหลังปรับ (คู่มือการ Audit สามารถดูได้จากตัว Checklist)
-
+- Google Analytics จำเป็นไหม (หลายคนสงสัย)
+- GA4 vs Universal
+- Google Search Console 
 ## Off-Page
 - Backlink Based (Web 2.0 + Blog + Edu + Private Network)
 - Education Site
