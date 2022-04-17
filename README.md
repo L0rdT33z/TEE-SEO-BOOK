@@ -17,7 +17,7 @@
 - GA4 vs Universal
 - Google Search Console 
 ## Off-Page
-- Backlink Based (Web 2.0 + Blog + Edu + Private Network)
+- Backlink-Based (Web 2.0 + Blog + Edu + Private Network)
 - Education Site
 - Blogger Site
 - Gov Site
