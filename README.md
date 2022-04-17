@@ -1,6 +1,7 @@
 # แนวทางในการทำ SEO ฉบับรวบรัด BY TEE 
 - 2nd Place SEO Contest 2017
-- SEO Specialist & Audit
+- SEO Warden 2022 
+- SEO Specialist & Auditor @TX_
 
 ## On-Page
 - Keyword-Based (Longtail & Short)
