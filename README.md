@@ -5,6 +5,7 @@
 ## On-Page
 - Keyword-Based (Longtail & Short)
 - แนวทางในการปรับตำแหน่งตามหลักเกณฑ์เบื้องต้นของ PS Insight
+- เบื้องหลัง Pagespeed 100% จากผู้เชี่ยวชาญ (ไม่ 99%)
 - แนวทางในการทำ Reduction
 - แนวทางในการระบุ MetaData
 - แนวทางในการระบุ Schema
