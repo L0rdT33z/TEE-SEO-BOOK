@@ -40,7 +40,7 @@ SEO คือการปรับหน้าเว็บและการท�
 - แนวทางในการหา Backlink
 - Backlink คุณภาพ
 - Sitemap & RSS
-- Pagerank
+- Page Rank
 - Bad Backlink 
 - Ahrefs
 - Google Disavow
