@@ -1,4 +1,4 @@
-# แนวทางในการทำ SEO ฉบับรวบรัด BY TK 
+# แนวทางในการทำ SEO ฉบับรวบรัด BY TEE 
 - 2nd Place SEO Contest 2017
 - SEO Specialist & Audit
 
