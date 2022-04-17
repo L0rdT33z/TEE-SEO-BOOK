@@ -1,9 +1,10 @@
-# แนวทางในการทำ SEO ฉบับรวบรัด BY TEE 
+# แนวทางในการทำ SEO ฉบับรวบรัด BY เซียนTEE 
 
 - 2nd Place SEO Contest 2017
 - 3rd Place SEO Contest 2015
 - SEO Warden 2022 
 - SEO Specialist & Auditor @TX_
+- อยู่ในวงการ SEO มา 8 ปี (ตั้งแต่อายุ 13)
 
 ## Introduction
 ก่อนอื่นผมจะเกริ่นนำก่อนว่า SEO คืออะไร  
