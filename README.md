@@ -11,7 +11,7 @@
 - แนวทางในการระบุ Schema
 - แนวทางในการปรับตำแหน่งขอบ
 - แนวทางในการใช้ Header Tag
-- ทำ Audit ทุกครั้งหลังปรับ
+- ทำ Audit ทุกครั้งหลังปรับ (คู่มือการ Audit สามารถดูได้จากตัว Checklist)
 
 ## Off-Page
 - Backlink Based (Web 2.0 + Blog + Edu + Private Network)
@@ -30,3 +30,5 @@
 - การทำ Offpage ไม่ให้โดนเพนกวิ้น
 - Backlink Web 2.0
 - IP Class C
+- SERP BOT (ดัน Snippet ขึ้น SERP)
+- New API
