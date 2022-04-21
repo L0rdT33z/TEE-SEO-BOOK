@@ -41,7 +41,8 @@ SEO คือการปรับหน้าเว็บและการท�
 - แนวทางในการหา Backlink
 - Backlink คุณภาพ
 - Sitemap & RSS
-- Page Rank
+- DA & Page Rank
+- DoFollow , NoFollow
 - Bad Backlink 
 - Ahrefs
 - Google Disavow
